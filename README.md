@@ -5,5 +5,5 @@ This repository contains my solutions for [Advent of Code](https://adventofcode.
 #### Language
 The solutions are mostly implemented in Python.
 
-### License
+#### License
 This repository is for personal use and learning.
